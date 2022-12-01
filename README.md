@@ -4,12 +4,12 @@ The daytime camera uses a Pi Camera module v2.1, and the nighttime camera uses a
 Still, not wanting to bathe them in IR perpetually, I turn the LEDs on and off through the Pi's GPIO pins only when a picture is taken. Who knows what else sees infrared?
 
 
-Full week-and-a-half day timelapse, showing the little monsters grow into adorable fluffy birdos!
+Full week-and-a-half day timelapse, showing the little monsters grow into adorable fluffy birdos! (Apparently Github markdown doesn't support iframes, so this player-looking image is actually just a link to youtube, which will inevitable play an ad unless you have an adblocker)
 
 <a href="https://www.youtube.com/watch?v=kPjclxg8t8g"><img src="https://user-images.githubusercontent.com/17125101/204959516-6bee348e-8a92-41a9-847b-3c25ade76326.png" width="800" /></a>
 
 
-Single night timelapse, showing restless chicks keeping mom up at night! :)
+Single night timelapse, showing restless chicks keeping mom up at night :)
 
 <a href="https://www.youtube.com/embed/3oLIl-vjsxg"><img src="https://user-images.githubusercontent.com/17125101/204960245-653d34a1-eb0f-416c-9eea-50532602a2ab.png" width="800" /></a>
 
