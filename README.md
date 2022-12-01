@@ -1,7 +1,6 @@
 I quickly cobbled together these two Python scripts and Raspberry Pi Zero Ws to take timelapse pictures of baby bluejays, spanning a week and a half from just after they hatch until they leave the nest.
 A Pi 0 is used for each camera.
-The daytime camera uses a Pi Camera module v2.1.
-The nighttime camera uses a Pi Camera module without an IR filter. This allowed me to add infrared LEDs to provide light - bluejays can't see infrared, so this did not to disturb them.
+The daytime camera uses a Pi Camera module v2.1, and the nighttime camera uses a Pi Camera module without an IR filter. The NoIR version allowed me to add infrared LEDs to provide light - bluejays can't see infrared, so this did not disturb them.
 Still, not wanting to bathe them in IR perpetually, I turn the LEDs on and off through the Pi's GPIO pins only when a picture is taken. Who knows what else sees infrared?
 
 
