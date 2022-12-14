@@ -11,7 +11,7 @@ Full week-and-a-half day timelapse, showing the little monsters grow into adorab
 
 Single night timelapse, showing restless chicks keeping mom up at night :)
 
-<a href="https://www.youtube.com/embed/3oLIl-vjsxg"><img src="https://user-images.githubusercontent.com/17125101/204960245-653d34a1-eb0f-416c-9eea-50532602a2ab.png" width="800" /></a>
+<a href="https://www.youtube.com/watch?v=3oLIl-vjsxg"><img src="https://user-images.githubusercontent.com/17125101/204960245-653d34a1-eb0f-416c-9eea-50532602a2ab.png" width="800" /></a>
 
 
 Picture of daytime camera mounted towards nest:
