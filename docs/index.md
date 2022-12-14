@@ -6,12 +6,13 @@ Still, not wanting to bathe them in IR perpetually, I turn the LEDs on and off t
 
 Full week-and-a-half day timelapse, showing the little monsters grow into adorable fluffy birdos! (Apparently Github markdown doesn't support iframes, so this player-looking image is actually just a link to youtube, which might play an ad unless you have an adblocker)
 
-<iframe width="1000" height="100%" src="https://www.youtube.com/embed/kPjclxg8t8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/kPjclxg8t8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Single night timelapse, showing restless chicks keeping mom up at night :)
 
-<a href="https://www.youtube.com/watch?v=3oLIl-vjsxg" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/17125101/204960245-653d34a1-eb0f-416c-9eea-50532602a2ab.png" width="800" /></a>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/3oLIl-vjsxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
 
 Picture of daytime camera mounted towards nest:
 ![bj-timelapse_daycam_pointing_at_nest](https://user-images.githubusercontent.com/17125101/204882842-5f5077b8-d8ae-40df-b7cf-c9b0411a0464.jpg)
