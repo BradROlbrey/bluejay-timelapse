@@ -1,1 +1,1 @@
-See Github page [here](https://bradrolbrey.github.io/bluejay-timelapse/)
+See GitHub Page [here](https://bradrolbrey.github.io/bluejay-timelapse/)
